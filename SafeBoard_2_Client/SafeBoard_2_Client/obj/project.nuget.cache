@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQb4Q/EiSf/20O9iDMR72wxxoVMfPyYEipCdZT2DGvTEkENxg0cV9+pFP/SsUZb+urDv/EhhSiOiLJ6rJAPpow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wowdi\\Desktop\\SafeBoard_2_Client\\SafeBoard_2_Client\\SafeBoard_2_Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wowdi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

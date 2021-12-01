@@ -1,0 +1,13 @@
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\bin\Debug\netcoreapp3.1\SafeBoard_2_Server.exe
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\bin\Debug\netcoreapp3.1\SafeBoard_2_Server.deps.json
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\bin\Debug\netcoreapp3.1\SafeBoard_2_Server.runtimeconfig.json
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\bin\Debug\netcoreapp3.1\SafeBoard_2_Server.runtimeconfig.dev.json
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\bin\Debug\netcoreapp3.1\SafeBoard_2_Server.dll
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\bin\Debug\netcoreapp3.1\SafeBoard_2_Server.pdb
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\obj\Debug\netcoreapp3.1\SafeBoard_2_Server.AssemblyInfoInputs.cache
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\obj\Debug\netcoreapp3.1\SafeBoard_2_Server.AssemblyInfo.cs
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\obj\Debug\netcoreapp3.1\SafeBoard_2_Server.csproj.CoreCompileInputs.cache
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\obj\Debug\netcoreapp3.1\SafeBoard_2_Server.dll
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\obj\Debug\netcoreapp3.1\SafeBoard_2_Server.pdb
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\obj\Debug\netcoreapp3.1\SafeBoard_2_Server.genruntimeconfig.cache
+C:\Users\wowdi\source\repos\SafeBoard_2_Server\SafeBoard_2_Server\obj\Debug\netcoreapp3.1\SafeBoard_2_Server.csprojAssemblyReference.cache
